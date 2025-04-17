@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-07-Learning-to-Rasterize-Differentiably
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-24
-venue: 'Eurographics Symposium on Rendering 2024'
+venue: 'Computer Graphics Forum'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/2024-07-Learning-to-Rasterize-Differentiably'
 bibtexurl: 'http://academicpages.github.io/files/2024-07-Learning-to-Rasterize-Differentiably'

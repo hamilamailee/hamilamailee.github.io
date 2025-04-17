@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-05-Personality-Expression-in-Cartoon-Animal-Characters-Using-Sasang-Typology
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-18
-venue: 'Computer Animation & Social Agents 2023'
+venue: 'Computer Animation and Virtual Worlds'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/2023-05-Personality-Expression-in-Cartoon-Animal-Characters-Using-Sasang-Typology.pdf'
 bibtexurl: 'http://academicpages.github.io/files/2023-05-Personality-Expression-in-Cartoon-Animal-Characters-Using-Sasang-Typology.bib'
