@@ -2,12 +2,14 @@
   "basics": {
     "name": "Hamila Mailee",
     "email": "hamila.mailee@manchester.ac.uk",
+    "phone": "",
     "website": "https://hamilamailee.github.io",
     "summary": "Currently employed at The University of Manchester",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
+      "countryCode": "US",
       "region": ""
     },
     "profiles": [
