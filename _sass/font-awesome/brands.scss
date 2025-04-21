@@ -20,6 +20,17 @@
     url('#{$fa-font-path}/fa-brands-400.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Roman Antique';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fa-font-path}/RomanAntique.ttf') format('truetype');
+}
+.roman-antique {
+  font-family: 'Roman Antique', serif;
+  font-size: 1.5em;
+}
+
 .fab,
 .#{$fa-css-prefix}-brands {
   font-weight: 400;
