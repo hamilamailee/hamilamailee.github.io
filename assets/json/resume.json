@@ -28,9 +28,7 @@
       "studyType": "PhD",
       "startDate": "2024-01",
       "endDate": "Present",
-      "courses": [
-        "Cartoon Character Facial Expression Manipulation"
-      ]
+      "courses": ["Cartoon Character Facial Expression Manipulation"]
     },
     {
       "institution": "Sharif University of Technology, Tehran, Iran",
@@ -104,9 +102,7 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -118,10 +114,7 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "certificates": [
@@ -225,10 +218,7 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"

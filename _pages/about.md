@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a class="roman-antique">I was born to tell stories.</a>
 
-
 profile:
   align: right
   image: profile.jpg
@@ -27,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Hamila, an unserious person following my dreams seriously 🙂 
+I'm Hamila, an unserious person following my dreams seriously 🙂
 
-I'm currently a second year PhD student at the University of Manchester, supervised by <a href="https://research.manchester.ac.uk/en/persons/terence.morley">Dr. Terence Morley</a>, and have had the honor of working with brilliant researchers like <a href="https://rafaelkuffner.github.io/">Dr. Rafael Kuffner dos Anjos</a>, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri">Dr. Zahra Montazeri</a>, and <a href="https://www.cs.bilkent.edu.tr/~gudukbay/">Prof. Uğur Güdükbay</a> as project supervisors. 
+I'm currently a second year PhD student at the University of Manchester, supervised by <a href="https://research.manchester.ac.uk/en/persons/terence.morley">Dr. Terence Morley</a>, and have had the honor of working with brilliant researchers like <a href="https://rafaelkuffner.github.io/">Dr. Rafael Kuffner dos Anjos</a>, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri">Dr. Zahra Montazeri</a>, and <a href="https://www.cs.bilkent.edu.tr/~gudukbay/">Prof. Uğur Güdükbay</a> as project supervisors.
 My project revolves around animating facial expressions in cartoon faces. Moreover, I'm insterested in learning more about Classical Computer Animation techniques—especially traditional 2D and cel animation—and integrating them into current modern approaches.
 
 Before my current studies, I received my bachelor's degree in computer engineering from Sharif University of Technology while working in different industries as a data scientist and game developer, all to return to the point I started: <a style="color:red;">G</a><a style="color:orange;">R</a><a style="color:yellow;">A</a><a style="color:green;">P</a><a style="color:blue">H</a><a style="color:indigo;">I</a><a style="color:purple;">C</a><a style="color:pink;">S</a> 🎉
