@@ -7,7 +7,7 @@ first_name: Hamila
 middle_name:
 last_name: Mailee
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  My <b>Discord</b> is the best way to contact me. <b>Email</b> is the second best.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -193,6 +193,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/dropdown.md
+
 keep_files:
   - CNAME
   - .nojekyll
