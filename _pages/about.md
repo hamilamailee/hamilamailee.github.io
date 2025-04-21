@@ -6,7 +6,7 @@ subtitle: <a class="roman-antique">I was born to tell stories.</a>
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://www.cs.manchester.ac.uk/research/expertise/human-computer-systems">HCS Lab @ UoM</a></p>
