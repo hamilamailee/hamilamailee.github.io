@@ -198,6 +198,7 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/dropdown.md
+  - _pages/teaching.md
 
 keep_files:
   - CNAME
@@ -641,9 +642,10 @@ jsonresume:
   - education
   - publications
   - awards
-  - projects
+  # - projects
   - work
-  - volunteer
+  # - volunteer
+  - departmental activity
   - certificates
   - skills
   - languages

@@ -133,17 +133,57 @@
       ]
     }
   ],
+  "departmental activity": [
+    {
+      "organization": "The University of Manchester",
+      "location": "Manchester, England",
+      "position": "Volunteer Department Representative",
+      "url": "https://www.se.manchester.ac.uk/doctoral-academy/community/student-representatives/",
+      "startDate": "2024-12",
+      "endDate": "2025-12",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "position": "Public Relations Officer of Students' Scientific Chapter",
+      "url": "https://ssc.ce.sharif.edu/pages/members/central/",
+      "startDate": "2020-09",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Advanced",
+      "level": "",
       "icon": "fa-solid fa-square-binary",
       "keywords": [
         "Python",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Animation Software",
+      "level": "",
+      "icon": "fa-solid fa-video",
+      "keywords": [
+        "Blender",
+        "Clip Studio",
+        "Maya"
+      ]
+    },
+    {
+      "name": "THE Adobe Family",
+      "level": "",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "After Effects"
       ]
     }
   ],
@@ -151,48 +191,57 @@
     {
       "language": "Persian",
       "fluency": "Native",
-      "icon": "🇮"
+      "icon": "fa-solid fa-person-arrow-down-to-line"
     },
     {
       "language": "English",
       "fluency": "Full Professional",
-      "icon": "🇬"
+      "icon": "fa-solid fa-battery-full"
     },
     {
       "language": "Turkish",
       "fluency": "Professional Working",
-      "icon": "🇹"
+      "icon": "fa-solid fa-person-digging"
     },
     {
       "language": "Japanese",
       "fluency": "Elementary",
-      "icon": "🇯"
+      "icon": "fa-solid fa-spell-check"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computer Vision",
+      "icon": "fa-solid fa-eye-low-vision",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Object Detection",
+        "Emotion Recognition",
+        "Keypoint Extraction",
+        "HumanPose Estmation",
+        "Active Shape Models"
+      ]
+    },
+    {
+      "name": "Computer Graphics",
+      "icon": "fa-solid fa-palette",
+      "keywords": [
+        "Non-photorealistic Rendering",
+        "Cel Shading",
+        "Delaunay Triangulation",
+        "Deformation Lattice"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Doctor Terence Morley",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "<a href='terence.morley@manchester.ac.uk'>terence.morley@manchester.ac.uk</a>"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Doctor Rafael Kuffner dos Anjos",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "<a href='r.kuffnerdosanjos@leeds.ac.uk'>r.kuffnerdosanjos@leeds.ac.uk</a>"
     }
   ],
   "projects": [
