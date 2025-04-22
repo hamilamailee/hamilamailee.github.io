@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hamilamailee.github.io/test/sitemap.xml
+Sitemap: https://hamilamailee.github.io/sitemap.xml
