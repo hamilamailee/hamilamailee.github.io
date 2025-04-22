@@ -109,6 +109,15 @@
       "highlights": ""
     }
   ],
+  "certificates": [
+    {
+      "name": "Emergency First Aid at Work (Level 3 RQF) ",
+      "date": "2024-09-30",
+      "issuer": "First On Scene Ltd.",
+      "url": "https://www.firstonscene.co.uk/course/first-aid-at-work-level-3-rqf/",
+      "icon": "fa-solid fa-kit-medical"
+    }
+  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -124,55 +133,11 @@
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-square-binary",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
