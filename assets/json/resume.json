@@ -28,9 +28,7 @@
       "studyType": "PhD",
       "startDate": "2024-01",
       "endDate": "Present",
-      "courses": [
-        "Cartoon Character Facial Expression Manipulation"
-      ]
+      "courses": ["Cartoon Character Facial Expression Manipulation"]
     },
     {
       "institution": "Sharif University of Technology, Tehran, Iran",
@@ -127,10 +125,7 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "departmental activity": [
@@ -160,31 +155,19 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-square-binary",
-      "keywords": [
-        "Python",
-        "Java",
-        "C/C++"
-      ]
+      "keywords": ["Python", "Java", "C/C++"]
     },
     {
       "name": "Animation Software",
       "level": "",
       "icon": "fa-solid fa-video",
-      "keywords": [
-        "Blender",
-        "Clip Studio",
-        "Maya"
-      ]
+      "keywords": ["Blender", "Clip Studio", "Maya"]
     },
     {
       "name": "THE Adobe Family",
       "level": "",
       "icon": "fa-solid fa-people-group",
-      "keywords": [
-        "Photoshop",
-        "Illustrator",
-        "After Effects"
-      ]
+      "keywords": ["Photoshop", "Illustrator", "After Effects"]
     }
   ],
   "languages": [
@@ -213,23 +196,12 @@
     {
       "name": "Computer Vision",
       "icon": "fa-solid fa-eye-low-vision",
-      "keywords": [
-        "Object Detection",
-        "Emotion Recognition",
-        "Keypoint Extraction",
-        "HumanPose Estmation",
-        "Active Shape Models"
-      ]
+      "keywords": ["Object Detection", "Emotion Recognition", "Keypoint Extraction", "HumanPose Estmation", "Active Shape Models"]
     },
     {
       "name": "Computer Graphics",
       "icon": "fa-solid fa-palette",
-      "keywords": [
-        "Non-photorealistic Rendering",
-        "Cel Shading",
-        "Delaunay Triangulation",
-        "Deformation Lattice"
-      ]
+      "keywords": ["Non-photorealistic Rendering", "Cel Shading", "Delaunay Triangulation", "Deformation Lattice"]
     }
   ],
   "references": [
@@ -248,10 +220,7 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
