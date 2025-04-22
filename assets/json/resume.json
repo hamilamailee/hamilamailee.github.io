@@ -136,11 +136,10 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Master",
+      "level": "Advanced",
       "icon": "fa-solid fa-square-binary",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
+        "Python",
         "Quantum Information",
         "Quantum Cryptography",
         "Quantum Communication",
@@ -150,14 +149,24 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Persian",
+      "fluency": "Native",
+      "icon": "🇮"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Full Professional",
+      "icon": "🇬"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Professional Working",
+      "icon": "🇹"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Elementary",
+      "icon": "🇯"
     }
   ],
   "interests": [
