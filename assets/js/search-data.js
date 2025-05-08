@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'My poster got accepted for Expressive 2025, and I’ll be presenting it on...',
           description: "",
           section: "News",},{id: "news-i-ll-be-presenting-a-summary-of-my-first-year-progress-in-pgr-symposium-uom",
-          title: 'I’ll be presenting a summary of my first-year progress in PGR Symposium @...',
+          title: 'I’ll be presenting a summary of my first-year progress in PGR Symposium@UoM 🎓...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
